@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/W2C2P7LsMLMG1D8I6vwnwom2DpcBx9fYAlw8jyUypPc/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4y/MnZrcmliZDdhb2p1/MWVRVUg3S0ZRSGFF/SyZwaWQ9QXBp)]
+[![MasterHead](https://imgs.search.brave.com/6UBlHZ684ZA48iWAop5IwuwFx-kWpEhklGcnFkKfHEs/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEwMDAvMCpl/SWhWcDBLWHJYU1NI/T1JOLmdpZg.gif)
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate fullstack developer from Reunion Island 🏝️</h3>
 
