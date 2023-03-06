@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate fullstack developer from Reunion Island 🏝️</h3>
+<h3 align="center">An apprentice fullstack developer from Reunion Island 🏝️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastamaya&label=Profile%20views&color=0e75b6&style=flat" alt="lucastamaya" /> </p>
 
